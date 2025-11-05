@@ -42,7 +42,7 @@
 </style>
 
 
-       .menu {
+.menu {
             position: fixed;
             top: 0;
             width: 100%;

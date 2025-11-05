@@ -1,5 +1,3 @@
-# yungdera123.github.io
-<!DOCTYPE html>
 <html>
 <head>
     <title>My First Page</title>

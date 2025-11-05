@@ -6,8 +6,6 @@
     <h1>Welcome to My Website! 🌟</h1>
     <p>This is my first HTML page made with Spck Editor.</p>
 
-<p>select one of the following to continue</p>
-
 
     <nav>
     <ul class="menu">
@@ -42,6 +40,59 @@
     background-color: #555;
 }
 </style>
+
+
+       .menu {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: white;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .menu a {
+            padding: 15px 20px;
+            text-decoration: none;
+            color: #333;
+        }
+        .section {
+            height: 100vh;
+            padding: 80px 20px 20px;
+        }
+        #home { background: #f0f0f0; }
+        #about { background: #e0e0e0; }
+        #services { background: #d0d0d0; }
+        #contact { background: #c0c0c0; }
+    </style>
+</head>
+<body>
+    <nav class="menu">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="home" class="section">
+        <h1>Home Section</h1>
+        <p>Welcome to our website!</p>
+    </section>
+
+    <section id="about" class="section">
+        <h1>About Section</h1>
+        <p>Learn about our company.</p>
+    </section>
+
+    <section id="services" class="section">
+        <h1>Services Section</h1>
+        <p>Our services include...</p>
+    </section>
+
+    <section id="contact" class="section">
+        <h1>Contact Section</h1>
+        <p>Get in touch with us.</p>
+    </section>
+</body>
+</html>
     <h2>About Me</h2>
     <p>I'm learning HTML on my phone!</p>
     

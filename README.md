@@ -84,7 +84,7 @@
 
     <section id="services" class="section">
         <h1>Services Section</h1>
-        <p>Our services include...</p>
+        <p>Our services include selling of systems and AI devices...</p>
     </section>
 
     <section id="contact" class="section">

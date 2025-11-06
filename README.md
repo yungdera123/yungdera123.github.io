@@ -6,8 +6,7 @@
     <h1>Welcome to My Website! 🌟</h1>
     <p>This is my first HTML page made with Spck Editor.</p>
 
-</body>
-</html>
+
     <h2>About Me</h2>
     <p>I'm learning HTML on my phone!</p>
     
